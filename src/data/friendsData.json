@@ -1,0 +1,44 @@
+[
+  {
+    "key": "request",
+    "type": "Friend's Request",
+    "data": [
+      {
+        "id": 0,
+        "userTitle": "Jane Doe",
+        "city": "Long Island, NY"
+      },
+      {
+        "id": 1,
+        "userTitle": "Mark Smith  ",
+        "city": "Long Island, NY"
+      }
+    ]
+  },
+  {
+    "key": "friend",
+    "type": "Friends",
+    "data": [
+      {
+        "id": 0,
+        "userTitle": "Adam Johnson ",
+        "city": "Long Island, NY"
+      },
+      {
+        "id": 1,
+        "userTitle": "Nicole Webber",
+        "city": "Long Island, NY"
+      },
+      {
+        "id": 2,
+        "userTitle": "Jennifer Hutchins ",
+        "city": "Long Island, NY"
+      },
+      {
+        "id": 3,
+        "userTitle": "Jane Doe",
+        "city": "Long Island, NY "
+      }
+    ]
+  }
+]

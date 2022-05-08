@@ -1,0 +1,17 @@
+{
+  "heading": "",
+  "underline_heading": "",
+  "paragragh": "All applicants are required to apply for admission by filling the online application form and by providing all the  required documents.",
+  "buttons": [
+    {
+      "id": 0,
+      "title": "CLICK HERE FOR DETAILS",
+      "onPress": "login"
+    },
+    {
+      "id": 0,
+      "title": "ADMISSION PROCESS DETAILS",
+      "onPress": "signup"
+    }
+  ]
+}

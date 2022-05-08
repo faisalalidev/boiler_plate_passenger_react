@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "image": "http://themenarights.com/wp-content/uploads/2014/02/hd_events.jpg",
+    "time": "Tue, Jul 4, 15:00",
+    "distance": "2.5km",
+    "eventName": "4th of July rooftop party “The Big Bang”",
+    "location": "Ozone",
+    "category": "Bars, Clubs, Lounge",
+    "tags": "#rooftop, #independence",
+    "likes": 205,
+    "going": 13,
+    "discussion_count": 20,
+    "userName": "Syed Zain Ali",
+    "userLocation": "1h ago, New York"
+  },
+  {
+    "id": 2,
+    "image": "http://themenarights.com/wp-content/uploads/2014/02/hd_events.jpg",
+    "time": "Tue, Jul 4, 15:00",
+    "distance": "4.5km",
+    "eventName": "5th of July rooftop party “The Big Bang”",
+    "location": "Ozone",
+    "category": "Bars, Clubs, Lounge",
+    "tags": "#rooftop, #independence",
+    "likes": 5,
+    "going": 13,
+    "discussion_count": 20,
+    "userName": "Safeer Jan",
+    "userLocation": "3h ago, England"
+  }
+]

@@ -1,0 +1,12 @@
+{
+  "heading": "Credit Transfer Candidates(Course Work)",
+  "underline_heading": "Save Your Time",
+  "paragragh": "See if you are eligible for credit transfers",
+  "buttons": [
+    {
+      "id": 0,
+      "title": "CLICK HERE FOR DETAILS",
+      "onPress": ""
+    }
+  ]
+}

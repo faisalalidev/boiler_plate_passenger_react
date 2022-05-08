@@ -1,0 +1,17 @@
+{
+  "heading": "Credit Transfer Candidates(Life Experience)",
+  "underline_heading": "Dont let your work experience go to waste",
+  "paragragh": "See if you eligible for credit transfers based on your work experience",
+  "buttons": [],
+  "widget2": {
+    "widget2Heading": "",
+    "widget2Paragraph": "We value the experiences our applicants have acquired during their work life and hence we have an accommodating policy to provide support to such experiences.",
+    "buttons": [
+      {
+        "id": 0,
+        "title": "CLICK HERE FOR DETAILS",
+        "onPress": ""
+      }
+    ]
+  }
+}

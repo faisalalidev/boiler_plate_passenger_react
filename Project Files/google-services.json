@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "92106926362",
+    "project_id": "boilerplatedriverandpassenger",
+    "storage_bucket": "boilerplatedriverandpassenger.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:92106926362:android:177febea3f29576ecfa4a3",
+        "android_client_info": {
+          "package_name": "com.boiler_plate_driver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "92106926362-ge3raf2nh1rjfjigcha4tb5tjoroomli.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_4A9whSnjoHhuK1Ow5ESjxD5hgT9L1Io"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "92106926362-ge3raf2nh1rjfjigcha4tb5tjoroomli.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "92106926362-hod7d0v1dt3p91jtovlnhmiq5k5ombrf.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.boilerplatepassenger"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:92106926362:android:501cb663722ac593cfa4a3",
+        "android_client_info": {
+          "package_name": "com.boiler_plate_passenger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "92106926362-ge3raf2nh1rjfjigcha4tb5tjoroomli.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_4A9whSnjoHhuK1Ow5ESjxD5hgT9L1Io"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "92106926362-ge3raf2nh1rjfjigcha4tb5tjoroomli.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "92106926362-hod7d0v1dt3p91jtovlnhmiq5k5ombrf.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.boilerplatepassenger"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

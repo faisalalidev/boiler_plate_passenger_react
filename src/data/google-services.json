@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "559588574771",
+    "firebase_url": "https://rydr-d252c.firebaseio.com",
+    "project_id": "rydr-d252c",
+    "storage_bucket": "rydr-d252c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:559588574771:android:dd697e8acf484238",
+        "android_client_info": {
+          "package_name": "com.rydr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "559588574771-eio83tpkq6ctilakv37c9p3n8bem4pgt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKl4goe9TBaieaxdn1-8JimsohGyn9cNA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "559588574771-eio83tpkq6ctilakv37c9p3n8bem4pgt.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "559588574771-h0j02bdhtjhc5blqmh4votpmkb5mj103.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.rydrdriver.test"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:559588574771:android:f61ccfb5f9c2b12a",
+        "android_client_info": {
+          "package_name": "com.rydrdriver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "559588574771-eio83tpkq6ctilakv37c9p3n8bem4pgt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKl4goe9TBaieaxdn1-8JimsohGyn9cNA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "559588574771-eio83tpkq6ctilakv37c9p3n8bem4pgt.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "559588574771-h0j02bdhtjhc5blqmh4votpmkb5mj103.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.rydrdriver.test"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
